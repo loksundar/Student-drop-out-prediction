@@ -1,0 +1,4 @@
+0,1,2,3,4
+Decision tree,science_teacher,english_marks,,
+XGB,english_marks,caste,languages_teacher,gender
+Random Forest,science_teacher,mathematics_marks,science_marks,english_marks
